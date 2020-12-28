@@ -11,7 +11,7 @@ setup(
     keywords="algorithms、data structures",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/lvyunze/keyword_extract_links",
+    url="https://github.com/lvyunze/pyalgorithm",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
